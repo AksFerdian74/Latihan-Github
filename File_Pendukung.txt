@@ -1,2 +1,3 @@
 Dalam file ini kamu akan di berikan beberapa hal, untuk mendukung bagaimana program kamu bisa berjalan
 1. install terlebih dahulu git di kamputer kamu
+2. Menghancurkan Komputer dengan lebih baik
