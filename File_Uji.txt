@@ -1,2 +1,5 @@
 Ini adalah file uji coba untuk praktek menggunakan GitHub.
 File Uji ini di buat pada tanggal 08 bulan 05 tahun 2019
+
+Baiklah.. dalam file uji ini saya akan memberikan tips bagaimana caranya menggunakan github
+ # Buat Repository
