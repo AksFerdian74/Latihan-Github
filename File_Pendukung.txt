@@ -1,2 +1,4 @@
 Dalam file ini kamu akan di berikan beberapa hal, untuk mendukung bagaimana program kamu bisa berjalan
 1. install terlebih dahulu git di kamputer kamu
+2. Pelajar dasar Perintah UNIX.
+    ^ Pelajari anya sintax dasar saja
